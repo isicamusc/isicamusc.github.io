@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricación Digital on Nombre Alumno</title>
+    <title>Fabricación Digital on Isidora Camus</title>
     <link>https://isicamusc.github.io/</link>
-    <description>Recent content in Fabricación Digital on Nombre Alumno</description>
+    <description>Recent content in Fabricación Digital on Isidora Camus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
@@ -57,11 +57,29 @@
     </item>
     
     <item>
-      <title>Encargo 1</title>
-      <link>https://isicamusc.github.io/docs/encargo-1/</link>
+      <title>Mecanizado CNC</title>
+      <link>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://isicamusc.github.io/docs/encargo-1/</guid>
+      <guid>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</guid>
+      <description>Documentación de mi encargo 2 sobre Taller de Fcaricación Digital</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC</title>
+      <link>https://isicamusc.github.io/docs/mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/mecanizado-cnc/</guid>
+      <description>Documentación de mi encargo 2 sobre Taller de Fcaricación Digital</description>
+    </item>
+    
+    <item>
+      <title>Planimetrías Silla</title>
+      <link>https://isicamusc.github.io/docs/1.-planimetria-silla/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/1.-planimetria-silla/</guid>
       <description>Documentacion de mi encargo 1 sobre Taller de Fcaricación Digital</description>
     </item>
     
