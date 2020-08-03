@@ -12,24 +12,6 @@
     
     
     <item>
-      <title>Instalar Tema</title>
-      <link>https://isicamusc.github.io/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Configuración</title>
-      <link>https://isicamusc.github.io/docs/configuracion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/configuracion/</guid>
-      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
-    
-    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://isicamusc.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -48,7 +30,7 @@
     </item>
     
     <item>
-      <title>Título de mi documento</title>
+      <title>Objetivos del Curso</title>
       <link>https://isicamusc.github.io/docs/objetivos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -57,7 +39,16 @@
     </item>
     
     <item>
-      <title>Mecanizado CNC</title>
+      <title>Post 1: Planimetrías Silla</title>
+      <link>https://isicamusc.github.io/docs/1.-planimetria-silla/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/1.-planimetria-silla/</guid>
+      <description>Documentacion de mi encargo 1 sobre Taller de Fcaricación Digital</description>
+    </item>
+    
+    <item>
+      <title>Post 2: Mecanizado CNC 2D</title>
       <link>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -66,21 +57,12 @@
     </item>
     
     <item>
-      <title>Mecanizado CNC</title>
-      <link>https://isicamusc.github.io/docs/mecanizado-cnc/</link>
+      <title>Post 3: Mecanizado 2,5D</title>
+      <link>https://isicamusc.github.io/docs/3.-mecanizado-25/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://isicamusc.github.io/docs/mecanizado-cnc/</guid>
-      <description>Documentación de mi encargo 2 sobre Taller de Fcaricación Digital</description>
-    </item>
-    
-    <item>
-      <title>Planimetrías Silla</title>
-      <link>https://isicamusc.github.io/docs/1.-planimetria-silla/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/1.-planimetria-silla/</guid>
-      <description>Documentacion de mi encargo 1 sobre Taller de Fcaricación Digital</description>
+      <guid>https://isicamusc.github.io/docs/3.-mecanizado-25/</guid>
+      <description>Documentación de mi encargo 3 sobre Taller de Fcaricación Digital</description>
     </item>
     
   </channel>
