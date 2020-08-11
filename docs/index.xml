@@ -30,57 +30,57 @@
     </item>
     
     <item>
-      <title>Bonus 1: GrassHopper</title>
+      <title>01. Planimetrías Silla</title>
+      <link>https://isicamusc.github.io/docs/1.-planimetria-silla/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/1.-planimetria-silla/</guid>
+      <description>Planimetrías Plywood Chair</description>
+    </item>
+    
+    <item>
+      <title>02. Mecanizado CNC 2D</title>
+      <link>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</guid>
+      <description>Mecanizado CNC de Silla Fresia en Fusion 360</description>
+    </item>
+    
+    <item>
+      <title>03. Mecanizado 2,5D</title>
+      <link>https://isicamusc.github.io/docs/3.-mecanizado-25/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/3.-mecanizado-25/</guid>
+      <description>Mecanizado 2,5D de respaldo Silla Fresia</description>
+    </item>
+    
+    <item>
+      <title>04. Bonus GrassHopper</title>
       <link>https://isicamusc.github.io/docs/4.-bonus1-grasshopper/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://isicamusc.github.io/docs/4.-bonus1-grasshopper/</guid>
-      <description>Documentación de mi Bonus 1 sobre Taller de Fcaricación Digital</description>
+      <description>Mecanizado 2,5D de figura Grasshopper</description>
     </item>
     
     <item>
-      <title>Bonus 2: Investigación de materiales</title>
+      <title>05. Bonus Investigación de materiales</title>
       <link>https://isicamusc.github.io/docs/5.-bonus-2-papel-mache/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://isicamusc.github.io/docs/5.-bonus-2-papel-mache/</guid>
-      <description>Documentación de mi Bonus 2 sobre Taller de Fcaricación Digital</description>
+      <description>Investigación de materiales reciclados, principalmente papel y cartón</description>
     </item>
     
     <item>
-      <title>Macetero Orgánico</title>
+      <title>07. Macetero Orgánico</title>
       <link>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</guid>
       <description>Documentación de Macetero Orgánico</description>
-    </item>
-    
-    <item>
-      <title>Post 1: Planimetrías Silla</title>
-      <link>https://isicamusc.github.io/docs/1.-planimetria-silla/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/1.-planimetria-silla/</guid>
-      <description>Documentacion de mi encargo 1 sobre Taller de Fcaricación Digital</description>
-    </item>
-    
-    <item>
-      <title>Post 2: Mecanizado CNC 2D</title>
-      <link>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</guid>
-      <description>Documentación de mi encargo 2 sobre Taller de Fcaricación Digital</description>
-    </item>
-    
-    <item>
-      <title>Post 3: Mecanizado 2,5D</title>
-      <link>https://isicamusc.github.io/docs/3.-mecanizado-25/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/3.-mecanizado-25/</guid>
-      <description>Documentación de mi encargo 3 sobre Taller de Fcaricación Digital</description>
     </item>
     
   </channel>
