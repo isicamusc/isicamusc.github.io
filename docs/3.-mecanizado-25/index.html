@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Post 3: Mecanizado 2,5D - Isidora Camus</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="https://isicamusc.github.io/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.df52c7c8fb17040fdfb216293b7a711034ee517647a54f8a626ea24f0382f02b.css">
+  
+
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-documentación">
+      <a href="/docs/">
+        <span>Documentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="https://isicamusc.github.io/"><img alt="Logo" src="/images/logo.png" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="https://isicamusc.github.io/"><img alt="Logo" src="/images/logo.png" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-inicio">
+      <a href="/">
+        <span>Inicio</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-documentación">
+      <a href="/docs/">
+        <span>Documentación</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
+      <div class="row">
+        <div class="col-12 col-md-3 mb-3">
+          <div class="sidebar">
+            
+<div class="docs-menu">
+  <h4>Documentación</h4>
+  <ul>
+    
+    <li class="">
+      <a href="https://isicamusc.github.io/docs/ejemplo/">Ejemplo Shortcodes</a>
+    </li>
+    
+    <li class="">
+      <a href="https://isicamusc.github.io/docs/markdown/">Ejemplos Markdown</a>
+    </li>
+    
+    <li class="">
+      <a href="https://isicamusc.github.io/docs/4.-bonus1-grasshopper/">Bonus 1: GrassHopper</a>
+    </li>
+    
+    <li class="">
+      <a href="https://isicamusc.github.io/docs/5.-bonus-2-papel-mache/">Bonus 2: Investigación de materiales</a>
+    </li>
+    
+    <li class="">
+      <a href="https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/">Macetero Orgánico</a>
+    </li>
+    
+    <li class="">
+      <a href="https://isicamusc.github.io/docs/1.-planimetria-silla/">Post 1: Planimetrías Silla</a>
+    </li>
+    
+    <li class="">
+      <a href="https://isicamusc.github.io/docs/2.-mecanizado-cnc/">Post 2: Mecanizado CNC 2D</a>
+    </li>
+    
+    <li class="active ">
+      <a href="https://isicamusc.github.io/docs/3.-mecanizado-25/">Post 3: Mecanizado 2,5D</a>
+    </li>
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-9">
+          
+<h1 class="title">Post 3: Mecanizado 2,5D</h1>
+<div class="content ">
+  <h2 id="mecanizado-25"><strong>Mecanizado 2,5</strong></h2>
+<p>En este ejercicio se explicaran los pasos a seguir para realizar un mecanizado en 2,5 ejes de desplazamiento de una maquina CNC, para modelar el <strong>respaldo de la Silla Fresia</strong>. Se utilizara el software Fusion 360 para elaborar el proceso.</p>
+<p>Antes de comenzar es necesario comprender cuál es el mecanizado 2,5 D y porque se utilizara este en vez del 3D.</p>
+<p>Recordemos que <strong>CNC</strong> es el proceso donde máquinas que operan controladas por un computador y que siguen las instrucciones de un programa, realizan diferentes procesos industriales, así como corte, cepillado, fresado, etc.</p>
+<p>Ahora bien, un mecanizado de piezas con la <strong>estrategia de corte 2,5</strong> se lleva a cabo cuando la herramienta se puede mover en un máximo de 3 ejes de la máquina, (X, Y, Z), pero nunca se podrá mover en las tres coordenadas al mismo tiempo durante la trayectoria. Es decir, Una maquina 2,5 posee la capacidad de traducir en los tres ejes, pero puede llevar a cabo la operación de corte solo en dos de los tres ejes a la vez (Hay un desplazamiento en ejes X e Y, pero en Z sólo se comienza y termina).</p>
+<p>Por otro lado, las operaciones de mecanizado en <strong>3 ejes</strong> permiten sacar el máximo provecho del control de la maquina fresadora, con la capacidad de controlar los tres ejes a la vez en las trayectorias de corte.</p>
+<p><strong>La gran diferencia</strong> entre un mecanizado y otro se encuentra en que las estrategias de corte de 2,5 ejes se utilizan para mecanizados rápidos y de piezas sencillas, como en superficies curvas donde el acabado no es crítico, así como es el caso del respaldo de la Silla Fresia. Las operaciones de mecanizado en 3 ejes continuos se emplean para dar una mayor calidad en el acabado superficial, en cuanto al tipo de rugosidad y crestas.</p>
+<h2 id="pasos-a-seguir">Pasos a seguir</h2>
+<p>Fusion 360 de la silla:</p>
+<div>
+    <iframe 
+    src= "https://alumnos2144.autodesk360.com/shares/public/SH56a43QTfd62c1cd9687a2e9f95baea6c49?mode=embed" 
+    width="100%" 
+    height="450" 
+    allowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    mozallowfullscreen="true"  
+    frameborder="0">
+    </iframe>    
+</div>
+
+
+<h2 id="1-exportar-respaldo">1. Exportar Respaldo</h2>
+<p>En primer lugar, se debe exportar el respaldo de la Silla Fresia como un nuevo documento de Fusion, para así poder trabajar únicamente con este elemento.</p>
+<h2 id="2-posicionamiento">2. Posicionamiento</h2>
+<p>Posicionamos la pieza, ajustándola para que quede cerca del origen y estrictamente perpendicular, tal como se muestra en la imagen a continuación.</p>
+<p><img src="/img/encargo2.5/1.png" alt="Mecanizado_Silla"></p>
+<h2 id="3-crear-stock-de-trabajo">3. Crear Stock de trabajo</h2>
+<p>A continuación se realiza un sketch y a este un extrude que logre contener toda la figura. Posteriormente se le baja la opacidad a un 20% para lograr visualizar de mejor manera la pieza del respaldo.
+<img src="/img/encargo2.5/2.png" alt="Mecanizado_Silla"></p>
+<h2 id="4-setup-de-la-maquina">4. Setup de la Maquina</h2>
+<p>Pasamos del modo Design a Manufacture y realizamos el setup de la máquina. Se debe seleccionar la “Generic 3 Axis”, y en la configuración de esta nos dirigimos a la ventana de stock y elegimos modo “solid”, seleccionando el stock previamente creado. En cuanto al modelo de orientación se debe establecer el “Select Z axis/plane &amp; Y axis” seleccionando como Z axis la cara superior del sólido, el eje x de esta y en stock point será el punto superior de la esquina más cercana al origen. Por último en model seleccionamos el respaldo.</p>
+<p><img src="/img/encargo2.5/3.png" alt="Mecanizado_Silla"></p>
+<h2 id="5-límite-del-mecanizado">5. Límite del Mecanizado</h2>
+<p>Volemos a cambiar de Manufacture a Design y creamos un nuevo sketch. Esta vez desde la cara superior del stock y proyectamos el respaldo, de esta forma determinamos el área específica del mecanizado. Tal como se muestra en la imagen.</p>
+<p><img src="/img/encargo2.5/4.png" alt="Mecanizado_Silla"></p>
+<h2 id="6-adaptive-clearing">6. Adaptive Clearing</h2>
+<p>Volvemos al espacio de Manufactura y ejecutamos la primera trayectoria: Un “Adaptive Clearing”, la cual sirve para remover material de la pieza y así poder acelerar el proceso  y reducir los tiempos de obtención del respaldo, es decir hacer un desbaste. En este caso se debe seleccionar la Fresa de “6 mm Falt Endmill” ocupada en trabajos anteriores, pero  modificándole su “Lenght below holder” de 22,5 a 40, para que la fresa no choque con la estructura que está cortando. Una vez establecida la fresa determinamos cual será el “Machine Boundary”, siendo este el creado en el paso anterior. En cuanto al modelo, seleccionamos el respaldo. Además, se debe modificar el Optimal Load de 6mm a 3mm.</p>
+<p><img src="/img/encargo2.5/5.png" alt="Mecanizado_Silla">
+<img src="/img/encargo2.5/16.png" alt="Mecanizado_Silla"></p>
+<h2 id="7-terminación-paralela-1">7. Terminación Paralela 1</h2>
+<p>Una vez ejecutada la primera trayectoria procedemos a realizar la segunda: “Terminación Paralela”, la cual realiza una trayectoria más precisa y continua. Esta se llevara a cabo con una fresa de punta redonda, para darle mayor precisión al tallado, la cual será una “6mm Ball End Mill” y al igual que en la  anterior se modifica su “Lenght below holder” de 22,5 a 40, para que no se intersecte con la estructura que está cortando. Determinamos el mismo “Machine Boundary y mismo modelo.</p>
+<p><img src="/img/encargo2.5/7.png" alt="Mecanizado_Silla">
+<img src="/img/encargo2.5/8.png" alt="Mecanizado_Silla"></p>
+<h2 id="8-terminación-paralela-2">8. Terminación Paralela 2</h2>
+<p>Tras la primera Terminación Paralela lo correcto es realizar otra de estas pero en el ángulo perpendicular. Por lo tanto el paso a seguir es duplicar el primer Parallel y editar su configuración, cambiando el “Pass Direction” de 0 deg a 90 deg y bajando su stepover de 3mm a 2mm, para lograr así una mejor resolución superficial.</p>
+<p><img src="/img/encargo2.5/9.png" alt="Mecanizado_Silla">
+<img src="/img/encargo2.5/13.png" alt="Mecanizado_Silla"></p>
+<h2 id="9-simulación">9. Simulación</h2>
+<p>Por último se realiza el mecanizado
+<div>
+    <video 
+    width="100%" 
+    height="450" 
+    autoplay muted loop controls preload>
+    <source src="/img/video3.mp4"  type="video/mp4">
+    </video>
+</div></p>
+<p>Una vez terminado el proceso de desbaste y el de las terminaciones paralelas para la superficie superior del respaldo, se deben volver a ejecutar los pasos antes mencionados, pero esta vez con la parte inferior. A continuación imágenes del proceso.</p>
+<h2 id="lado-inferior">Lado Inferior</h2>
+<p><img src="/img/encargo2.5/10.png" alt="Mecanizado_Silla"></p>
+<p><strong>Simulación</strong>
+<div>
+    <video 
+    width="100%" 
+    height="450" 
+    autoplay muted loop controls preload>
+    <source src="/img/video4.mp4"  type="video/mp4">
+    </video>
+</div></p>
+<p>Cuando el respaldo ya termino su proceso de mecanizado se debe lijar y perfeccionar para posteriormente armar la silla, imagenes del proceso se muestran a continuación
+<img src="/img/encargo2.5/11.png" alt="Mecanizado_Silla">
+<img src="/img/encargo2.5/14.png" alt="Mecanizado_Silla">
+<img src="/img/encargo2.5/15.png" alt="Mecanizado_Silla"></p>
+<p><a href="#top">[Volver Arriba]</a></p>
+
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/scripts.min.1237ff71925bb8625c97a9af8db4c54525258bedfd7c47493daaff723bea755e.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+
+</html>

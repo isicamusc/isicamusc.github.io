@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricación Digital on Nombre Alumno</title>
+    <title>Fabricación Digital on Isidora Camus</title>
     <link>https://isicamusc.github.io/docs/</link>
-    <description>Recent content in Fabricación Digital on Nombre Alumno</description>
+    <description>Recent content in Fabricación Digital on Isidora Camus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
 	<atom:link href="https://isicamusc.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Instalar Tema</title>
-      <link>https://isicamusc.github.io/docs/instalar-tema/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
-    </item>
-    
-    <item>
-      <title>Configuración</title>
-      <link>https://isicamusc.github.io/docs/configuracion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://isicamusc.github.io/docs/configuracion/</guid>
-      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
@@ -48,21 +30,57 @@
     </item>
     
     <item>
-      <title>Título de mi documento</title>
-      <link>https://isicamusc.github.io/docs/objetivos/</link>
+      <title>Bonus 1: GrassHopper</title>
+      <link>https://isicamusc.github.io/docs/4.-bonus1-grasshopper/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://isicamusc.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+      <guid>https://isicamusc.github.io/docs/4.-bonus1-grasshopper/</guid>
+      <description>Documentación de mi Bonus 1 sobre Taller de Fcaricación Digital</description>
     </item>
     
     <item>
-      <title>Encargo 1</title>
-      <link>https://isicamusc.github.io/docs/encargo1/</link>
+      <title>Bonus 2: Investigación de materiales</title>
+      <link>https://isicamusc.github.io/docs/5.-bonus-2-papel-mache/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://isicamusc.github.io/docs/encargo1/</guid>
-      <description>Documentacion de mi encardo 1 sobre Taller de Fcaricación Digital</description>
+      <guid>https://isicamusc.github.io/docs/5.-bonus-2-papel-mache/</guid>
+      <description>Documentación de mi Bonus 2 sobre Taller de Fcaricación Digital</description>
+    </item>
+    
+    <item>
+      <title>Macetero Orgánico</title>
+      <link>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</guid>
+      <description>Documentación de Macetero Orgánico</description>
+    </item>
+    
+    <item>
+      <title>Post 1: Planimetrías Silla</title>
+      <link>https://isicamusc.github.io/docs/1.-planimetria-silla/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/1.-planimetria-silla/</guid>
+      <description>Documentacion de mi encargo 1 sobre Taller de Fcaricación Digital</description>
+    </item>
+    
+    <item>
+      <title>Post 2: Mecanizado CNC 2D</title>
+      <link>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</guid>
+      <description>Documentación de mi encargo 2 sobre Taller de Fcaricación Digital</description>
+    </item>
+    
+    <item>
+      <title>Post 3: Mecanizado 2,5D</title>
+      <link>https://isicamusc.github.io/docs/3.-mecanizado-25/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/3.-mecanizado-25/</guid>
+      <description>Documentación de mi encargo 3 sobre Taller de Fcaricación Digital</description>
     </item>
     
   </channel>
