@@ -75,12 +75,21 @@
     </item>
     
     <item>
-      <title>07. Macetero Orgánico</title>
+      <title>06. Macetero Orgánico</title>
       <link>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</guid>
       <description>Documentación de Macetero Orgánico</description>
+    </item>
+    
+    <item>
+      <title>07. Molde 3D Macetero</title>
+      <link>https://isicamusc.github.io/docs/7.-molde-macetero/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/7.-molde-macetero/</guid>
+      <description>Modelado 3D del molde en positivo y negativo para poder obtener un macetero.</description>
     </item>
     
   </channel>
