@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabricación Digital on Isidora Camus</title>
+    <link>https://isicamusc.github.io/</link>
+    <description>Recent content in Fabricación Digital on Isidora Camus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
+    
+	<atom:link href="https://isicamusc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://isicamusc.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://isicamusc.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>01. Planimetrías Silla</title>
+      <link>https://isicamusc.github.io/docs/1.-planimetria-silla/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/1.-planimetria-silla/</guid>
+      <description>Planimetrías Plywood Chair</description>
+    </item>
+    
+    <item>
+      <title>02. Mecanizado CNC 2D</title>
+      <link>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/2.-mecanizado-cnc/</guid>
+      <description>Mecanizado CNC de Silla Fresia en Fusion 360</description>
+    </item>
+    
+    <item>
+      <title>03. Mecanizado 2,5D</title>
+      <link>https://isicamusc.github.io/docs/3.-mecanizado-25/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/3.-mecanizado-25/</guid>
+      <description>Mecanizado 2,5D de respaldo Silla Fresia</description>
+    </item>
+    
+    <item>
+      <title>04. Bonus GrassHopper</title>
+      <link>https://isicamusc.github.io/docs/4.-bonus1-grasshopper/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/4.-bonus1-grasshopper/</guid>
+      <description>Mecanizado 2,5D de figura Grasshopper</description>
+    </item>
+    
+    <item>
+      <title>05. Bonus Investigación de materiales</title>
+      <link>https://isicamusc.github.io/docs/5.-bonus-2-papel-mache/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/5.-bonus-2-papel-mache/</guid>
+      <description>Investigación de materiales reciclados, principalmente papel y cartón</description>
+    </item>
+    
+    <item>
+      <title>06. Macetero Orgánico</title>
+      <link>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/6.-macetero-org%C3%A1nico/</guid>
+      <description>Documentación de Macetero Orgánico</description>
+    </item>
+    
+    <item>
+      <title>07. Molde 3D Macetero</title>
+      <link>https://isicamusc.github.io/docs/7.-molde-macetero/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/7.-molde-macetero/</guid>
+      <description>Modelado 3D del molde en positivo y negativo para poder obtener un macetero.</description>
+    </item>
+    
+    <item>
+      <title>08. Molde 3D Macetero v.2 (Grupal)</title>
+      <link>https://isicamusc.github.io/docs/8.-entrega-grupal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://isicamusc.github.io/docs/8.-entrega-grupal/</guid>
+      <description>Nuevo intento, luego del feedback, de un modelado 3D del molde en positivo y negativo para poder obtener un macetero.</description>
+    </item>
+    
+  </channel>
+</rss>
